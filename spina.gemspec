@@ -30,7 +30,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'friendly_id'
   s.add_dependency 'filters_spam'
   s.add_dependency 'negative_captcha'
-  s.add_dependency 'ancestry'
+  s.add_dependency 'ancestry', '~> 2.1'
   s.add_dependency 'breadcrumbs_on_rails'
   s.add_dependency 'spina-template'
   s.add_dependency 'turbolinks'
